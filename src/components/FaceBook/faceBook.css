@@ -1,0 +1,30 @@
+
+.body{
+    display: grid;
+    height: 100%;
+    width: 100%;
+    place-items:center;
+    background: #eae9e9 !important;
+}
+.wrapper form{
+    padding: 10px 30px 50px 30px !important;
+}
+
+
+.wrapper{
+    width: 400px !important;
+    /* height: 400px; */
+    background: white !important;
+    border-radius: 8px;
+    box-shadow: 0px 15px 20px rgba(0,0,0,0.1);
+}
+.logo{
+    color: blue;
+}
+
+.btn-fb{
+    background: rgb(42, 152, 22) !important;
+    border: none;
+ 
+}
+
